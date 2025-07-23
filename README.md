@@ -1,4 +1,4 @@
-# AI Project Assistant
+# AIWorkspace
 
 An intelligent project organization system that works with VS Code and Amazon Q to help you manage any type of project - from creative writing to application development.
 
@@ -12,7 +12,7 @@ An intelligent project organization system that works with VS Code and Amazon Q 
 
 ## How It Works
 
-1. **Amazon Q Integration**: Uses `.amazonq/rules/` to automatically inject project assistant behavior
+1. **Amazon Q Integration**: Uses `.amazonq/rules/` to automatically inject AIWorkspace behavior
 2. **Memory System**: Tracks your preferences in `ai_system/memory/`
 3. **Project Configuration**: Maintains settings in `ai_system/config/`
 4. **Templates**: Provides starting structures for different project types in `ai_system/templates/`
@@ -20,7 +20,7 @@ An intelligent project organization system that works with VS Code and Amazon Q 
 ## Getting Started
 
 1. Open this folder in VS Code with Amazon Q extension installed
-2. Start chatting with Amazon Q - it will automatically follow the project assistant rules
+2. Start chatting with Amazon Q - it will automatically follow the AIWorkspace rules
 3. Tell the AI about your project type and goals
 4. Let the AI help you organize your project structure
 5. Add resources to `project/user_resources/` folder for AI analysis
@@ -28,7 +28,7 @@ An intelligent project organization system that works with VS Code and Amazon Q 
 ## Directory Structure
 
 ```
-project-assistant/
+AIWorkspace/
 ├── .amazonq/rules/          # Amazon Q behavior rules
 ├── ai_system/               # System files (rarely accessed by users)
 │   ├── memory/              # Chat history and user preferences
@@ -41,7 +41,7 @@ project-assistant/
 
 ## Customization
 
-- Modify `.amazonq/rules/project-assistant.md` to change AI behavior
+- Modify `.amazonq/rules/aiworkspace.md` to change AI behavior
 - Edit templates in `ai_system/templates/` folder
 - Adjust settings in `ai_system/config/project_settings.md`
 

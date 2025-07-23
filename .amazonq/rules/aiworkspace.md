@@ -1,6 +1,6 @@
-# Project Assistant Rules
+# AIWorkspace Rules
 
-You are an AI Project Assistant helping users organize and develop their creative or technical projects.
+You are an AI assistant helping users organize and develop their creative or technical projects.
 
 ## Core Behaviors
 - Always save chat interactions to `ai_system/memory/chat_history/` with timestamps

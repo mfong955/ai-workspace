@@ -1,12 +1,12 @@
 # Your Project Workspace
 
-This is your main working area where all your project files will be organized by the AI assistant.
+This is your main working area where all your project files will be organized by AIWorkspace.
 
 ## Getting Started
 
 1. **Add Resources**: Place any reference materials in the `user_resources/` folder
 2. **Tell the AI**: Describe what kind of project you want to create
-3. **Let AI Organize**: The assistant will create appropriate folders and files for your project type
+3. **Let AI Organize**: AIWorkspace will create appropriate folders and files for your project type
 
 ## What Gets Created Here
 
