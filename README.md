@@ -9,7 +9,7 @@ A lightweight, intelligent workspace template for AI-assisted project developmen
 ### For Users
 
 1. **Start Your Project**: Open this workspace in VSCode
-2. **Begin Working**: Start chatting with your AI assistant
+2. **Begin Working**: Start chatting with your AI assistant and ask it to read this file
 3. **AI Automatically**: Reads context files and understands your project
 4. **Work Naturally**: AI learns your preferences over time
 5. **Save Session**: Say "save session" - AI immediately saves all progress
